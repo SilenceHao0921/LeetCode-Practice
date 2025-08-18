@@ -8,10 +8,10 @@
 ##  題目清單
 
 ###  Easy
-1. [Two Sum](./01-Two%20Sum.py)  
-2. [Palindrome Number](./02-Palindrome%20Number.py)  
-3. [Reverse Integer](./03-Reverse%20Integer.py)  
-4. [Remove Duplicates from Sorted Array](./04-Remove%20Duplicates%20from%20Sorted%20Array.py)  
+1. [Two Sum](./01-Two-Sum.py)  
+2. [Palindrome Number](./02-Palindrome-Number.py)  
+3. [Reverse Integer](./03-Reverse-Integer.py)  
+4. [Remove Duplicates from Sorted Array](./04-Remove-Duplicates-from-Sorted-Array.py)  
 
 ###  Medium
 （之後會新增）
