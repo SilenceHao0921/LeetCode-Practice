@@ -29,7 +29,7 @@ def rev(x:int)->int:
 **注意：**
 如果反轉後的整數超出了 **32 位元有號整數範圍** `[-2^31, 2^31 - 1]`，則回傳 `0`。
 
-4. [Remove Duplicates from Sorted Array](./04-Remove-Duplicates-from-Sorted-Array.PY)
+4. [Remove Duplicates from Sorted Array](./04-Remove-Duplicates-from-Sorted-Array.PY)                        
            
 **題目：**
 
