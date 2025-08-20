@@ -32,9 +32,9 @@ def rev(x:int)->int:
 4. [Remove Duplicates from Sorted Array](./04-Remove-Duplicates-from-Sorted-Array.PY)
            
 **題目：**
-from typing import List
-class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
+from typing import List                 
+class Solution:                       
+    def removeDuplicates(self, nums: List[int]) -> int:                         
 - 給定一個**已排序（非遞減順序）**的整數陣列 `nums`。
 - 你需要**就地 (in-place)** 移除重複元素，使每個元素只出現一次。
 - 函式必須回傳移除後陣列的「新長度」。
