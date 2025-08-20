@@ -8,7 +8,7 @@
 ##  題目清單
 
 ###  Easy
-1. [Two Sum](./01-Two-Sum.PY)
+1. [Two Sum](./01-Two-Sum.PY)                   
 **題目：**
 def twosum (nums,target):
 給定一個整數陣列 `nums` 和一個目標值 `target`，請你在陣列中找出 **兩個數**，它們的和為 `target`，並回傳它們的 **索引**。
@@ -16,20 +16,20 @@ def twosum (nums,target):
 你可以以任意順序回傳答案。
 可使用雙迴圈,哈希表來解
 
-2. [Palindrome Number](./02-Palindrome-Number.PY)
+2. [Palindrome Number](./02-Palindrome-Number.PY)                     
 **題目：**
 def isPalindrome(x:int)->bool:
 給定一個整數 `x`，如果 `x` 是**回文整數**，則回傳 `True`；否則回傳 `False`。
 回文數：正著寫和倒著寫相同的數字。
 
-4. [Reverse Integer](./03-Reverse-Integer.PY)
+4. [Reverse Integer](./03-Reverse-Integer.PY)                    
 **題目：**
 def rev(x:int)->int:
 給定一個 32 位元有號整數 `x`，返回將其數字**反轉**後的整數。
 **注意：**
 如果反轉後的整數超出了 **32 位元有號整數範圍** `[-2^31, 2^31 - 1]`，則回傳 `0`。
 
-6. [Remove Duplicates from Sorted Array](./04-Remove-Duplicates-from-Sorted-Array.PY)
+6. [Remove Duplicates from Sorted Array](./04-Remove-Duplicates-from-Sorted-Array.PY)                
 **題目：**
 from typing import List
 class Solution:
