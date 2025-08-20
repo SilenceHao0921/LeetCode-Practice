@@ -23,15 +23,15 @@ def isPalindrome(x:int)->bool:
 回文數：正著寫和倒著寫相同的數字。
 
 3. [Reverse Integer](./03-Reverse-Integer.PY)                    
-**題目：**
-def rev(x:int)->int:
+**題目：**                 
+def rev(x:int)->int:                 
 給定一個 32 位元有號整數 `x`，返回將其數字**反轉**後的整數。
 **注意：**
 如果反轉後的整數超出了 **32 位元有號整數範圍** `[-2^31, 2^31 - 1]`，則回傳 `0`。
 
 4. [Remove Duplicates from Sorted Array](./04-Remove-Duplicates-from-Sorted-Array.PY)             
-**題目：**
-from typing import List                              
+**題目：**                                 
+from typing import List                                       
 class Solution:                                    
     def removeDuplicates(self, nums: List[int]) -> int:
                                 
