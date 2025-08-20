@@ -32,7 +32,7 @@ def rev(x:int)->int:
 4. [Remove Duplicates from Sorted Array](./04-Remove-Duplicates-from-Sorted-Array.PY)             
 **題目：**                                 
 from typing import List                                       
-class Solution:                                                     
+class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
                                 
 給定一個**已排序（非遞減順序）**的整數陣列 `nums`。
